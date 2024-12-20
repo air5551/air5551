@@ -1,5 +1,5 @@
 ## Hi
-I am just an eppy programmer on the internet learning C.
+I am just an eppy programmer on the internet learning C, Python, JSON, and some others.
  
 
 
